@@ -5,8 +5,7 @@ Kanelbullar
 Ingrédients
 -----------
 
-# Pour la pâte
-
++ Pour la pâte
     * 8 dL de farine (~500g)
     * levure boulangère pour 500g de farine (voir paquet de levure)
     * 65g de sucre
@@ -14,18 +13,15 @@ Ingrédients
     * 25 cL de lait
     * 1/2 cuillère à café de cardamome
 
-# Pour la garniture
-    
++ Pour la garniture
     * 70g de beurre
     * 70g de sucre (de canne de préférence)
     * 1 grosse cuillère à café bien bombée de cannelle
 
-# Pour le dessus
-
++ Pour le dessus
     * Sucre perlé
     * un jaune d'oeuf
     * 3 cuillères à soupe de sucre blond
-
 
 
 Préparation
