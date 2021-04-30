@@ -1,5 +1,7 @@
 # Gâteau au chocolat
 
+Source : https://gourmand.viepratique.fr/les-recettes-de-cyril-lignac/cake-chocolat-27773.html
+
 ## Ingrédients
 
 - 3 œufs
@@ -19,4 +21,4 @@
 
 3. Montez les blancs en neige avec une pincée de sel. Incorporez-les délicatement à la préparation en soulevant bien. Beurrez un moule à cake. Déposez-y la pâte.
 
-4. Enfournez pour 10 minutes et réduisez la température du four à th. 5 – 150 °C et poursuivez la cuisson 35 minutes. Variez la cuisson en piquant le cake avec la lame d’un couteau. Sortez le cake du four, démoulez-le et laissez refroidir sur une grille.
+4. Enfournez pour 10 minutes et réduisez la température du four à th. 5 – 150 °C et poursuivez la cuisson 35 minutes. Vérifiez la cuisson en piquant le cake avec la lame d’un couteau. Sortez le cake du four, démoulez-le et laissez refroidir sur une grille.
