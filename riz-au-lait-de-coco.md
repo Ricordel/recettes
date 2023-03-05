@@ -15,7 +15,7 @@ Pour deux très grosses portions
 - faire infuser les épices dans les laits chauds
 - porter à ébullition, puis baisser immédiatement
 - ajouter le riz
-- cuire environ 20 minutes en remuant régulièrement, jusqu'à ce que le mélange devienne crémeux
+- cuire environ 20 minutes à feu très doux en remuant régulièrement, jusqu'à ce que le mélange devienne crémeux
 - qq minutes avant la fin, ajouter le sucre et mélanger
 
 ## Notes
