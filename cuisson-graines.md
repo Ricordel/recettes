@@ -1,5 +1,8 @@
 # Cuisson des graines et légumineuses
 
+Sources :
+- https://www.finedininglovers.fr/article/regles-cuisson-cereales
+
 ## Sarrasin
 
 - mesurer le volume **sec**
@@ -12,10 +15,12 @@
 
 ## Boulgour
 
+### Quantités
 - un volume de boulgour
 - deux volumes d'eau
 - du sel
 
+### Cuisson 
 - porter à ébullition
 - couvrir et laisser 10 à 15 minutes
 - sortir du feu et laisser reposer 15 minutes à couvert
