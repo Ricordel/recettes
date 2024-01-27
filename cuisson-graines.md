@@ -24,3 +24,24 @@ Sources :
 - porter à ébullition
 - couvrir et laisser 10 à 15 minutes
 - sortir du feu et laisser reposer 15 minutes à couvert
+
+## Riz
+
+https://www.mangezplus.com/cuisson-du-riz/
+
+### Ingredients
+
+- 1 volume de riz
+- 2 volumes d'eau
+- sel
+- un peu d'huile
+
+### Cuisson
+
+- tout dans la casserole
+- mélanger un peu, et juste cette fois
+- porter à ébullition
+- après max 5 min, le haut du riz devrait ressortir de l'eau
+- à ce moment-là, bausser le feu, couvrir, et laisser 15 minutes 
+- vérifier la cuisson. Si pas OK, laisser qq minutes de plus
+- laisser reposer, servir
