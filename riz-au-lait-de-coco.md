@@ -7,7 +7,7 @@ Pour deux très grosses portions
 - 125g riz à risotto
 - 0,5 L de lait
 - 25 cL de lait de coco
-- 50 g de sucre (pas trop sucré)
+- 50 g de sucre (pas trop sucré) - TODO : essayer moins
 - optionnel : épices (vanille, badiane, cannelle, cardamome, ...)
 
 ## Recette
