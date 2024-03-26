@@ -45,3 +45,7 @@ https://www.mangezplus.com/cuisson-du-riz/
 - à ce moment-là, bausser le feu, couvrir, et laisser 15 minutes 
 - vérifier la cuisson. Si pas OK, laisser qq minutes de plus
 - laisser reposer, servir
+
+## Millet
+
+Testé 2 pour 1 et 20 minutes. Trop d'eau ou trop longtemps je ne sais pas, mais ca colle encore 
