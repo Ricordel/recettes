@@ -49,3 +49,31 @@ https://www.mangezplus.com/cuisson-du-riz/
 ## Millet
 
 Testé 2 pour 1 et 20 minutes. Trop d'eau ou trop longtemps je ne sais pas, mais ca colle encore 
+
+La cheffe dit : 15 min, eau x2
+
+## Orge perlé
+
+Cheffe
+
+- 12h trempage
+- eau x2
+- 10 min
+
+
+## Petit épeautre 
+
+Cheffe
+
+- trempage 12h
+- eau x2
+- 15 min
+
+Mettre des herbes et du goût.
+
+## Quinoa
+
+Cheffe.
+
+- 10 min
+- eau x2
