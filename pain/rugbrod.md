@@ -4,6 +4,14 @@ Rugbrød - essais, erreurs, raffinements
 
 Source : https://www.youtube.com/watch?v=O8hMJqlwSEc
 
+## 2025-02-22
+
+Cette fois pu faire comme dans la recette, et c'était parfait. La fermentation je crois avoir fait un intermédiaire entre nuit au frais et 2h dehors, possiblement un peu au frais puis 1h, ou alors 3 - 4h dehors pq il faisait moins de 25°C ? Oublié...
+Pour mon moule il y en avait trop, essayer 2/3 de la recette.
+
+
+
+
 ## 2025-02-15
 
 ### Déviations à la recette initiale
