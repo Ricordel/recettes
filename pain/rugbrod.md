@@ -4,6 +4,37 @@ Rugbrød - essais, erreurs, raffinements
 
 Source : https://www.youtube.com/watch?v=O8hMJqlwSEc
 
+## La recette de base
+
+### Ingrédients
+
+- Farine T170 Seigle : 266 gr
+- Farine T150 Blé : 67 gr
+- Eau : 276 gr
+- Sel : 9 gr
+- levain au seigle : 280 gr (100% Hydratation)
+
+- Graines :
+    - Graines de lin : 85 gr
+    - Graines de tournesol : 110 gr
+
+### Étapes
+
+- eau tiède et levain dans la cuve du robot
+- puis farines et sel
+- mélanger 3 minutes à vitesse 1, puis 4 minutes à vitesse 2
+    - c'est pas du pain "normal", pas de réseau de gluten à chercher, donc pas grand chose à faire attention
+- puis on ajoute les graines et on remélange un petit coup
+- débarasser dans une boîte, couvrir, laisser à température ambiante 1h30
+- graisser un moule, mettre la pâte dedans, bien tasser et aplatir. Il doit rester un bon tiers du moule dispo
+- ajouter des flocons d'avoine sur le dessus (mais des graines ça marche aussi) et tasser légèrement
+- fermentation au frigo 15 à 18h (ou 2h à 25°C mais meilleur avec une fermentation longue et lente)
+- 200 °C, 50 minutes. Pas de grignage
+
+## 2025-04-26
+
+
+
 ## 2025-02-22
 
 Cette fois pu faire comme dans la recette, et c'était parfait. La fermentation je crois avoir fait un intermédiaire entre nuit au frais et 2h dehors, possiblement un peu au frais puis 1h, ou alors 3 - 4h dehors pq il faisait moins de 25°C ? Oublié...
