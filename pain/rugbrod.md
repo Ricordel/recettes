@@ -40,6 +40,9 @@ Source : https://www.youtube.com/watch?v=O8hMJqlwSEc
 - 186g de levain de seigle à un tout petit peu plus que 50%
 - 130g de graines et ou fruits à coque torréfiés
 
+### Étapes
+
+- 21h30 la veille au soir : levain raffraichi à 1:2:2. Il ne fait pas très chaud, peut-être 19°C. Mon 1:3:3 d'hier n'avait pas atteint son pic à 9h du matin (je ne sais pas quand exactement)
 
 
 
