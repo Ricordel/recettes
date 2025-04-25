@@ -33,7 +33,7 @@ Source : https://www.youtube.com/watch?v=O8hMJqlwSEc
 
 ## 2025-04-26
 
-- 177g de farine de seigne T150
+- 177g de farine de seigle T150
 - 45g de farine de blé T110
 - 184g d'eau
 - 6g de sel
