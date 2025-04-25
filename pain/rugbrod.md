@@ -33,6 +33,14 @@ Source : https://www.youtube.com/watch?v=O8hMJqlwSEc
 
 ## 2025-04-26
 
+- 177g de farine de seigne T150
+- 45g de farine de blé T110
+- 184g d'eau
+- 6g de sel
+- 186g de levain de seigle à un tout petit peu plus que 50%
+- 130g de graines et ou fruits à coque torréfiés
+
+
 
 
 ## 2025-02-22
