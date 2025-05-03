@@ -31,18 +31,25 @@ Source : https://www.youtube.com/watch?v=O8hMJqlwSEc
 - fermentation au frigo 15 à 18h (ou 2h à 25°C mais meilleur avec une fermentation longue et lente)
 - 200 °C, 50 minutes. Pas de grignage
 
-## 2025-04-26
+## 2025-04-26 - très bien
 
 - 177g de farine de seigle T150
 - 45g de farine de blé T110
 - 184g d'eau
 - 6g de sel
 - 186g de levain de seigle à un tout petit peu plus que 50%
-- 130g de graines et ou fruits à coque torréfiés
+- 130g de graines et pour cette fois noisettes
+
+Ce sont les bonnes quantités pour mon petit moule en tôle
 
 ### Étapes
 
 - 21h30 la veille au soir : levain raffraichi à 1:2:2. Il ne fait pas très chaud, peut-être 19°C. Mon 1:3:3 d'hier n'avait pas atteint son pic à 9h du matin (je ne sais pas quand exactement)
+- vers 10h : mélange, puis ajout des graines torréfiées encore un peu chaudes, ce qui compense la température de l'appart (19°C je pense)
+- vers 12h30 (temps normal), dans le moule et go au frais
+- lendemain vers peut-être 17h (plus de 24h donc), cuisson comme indiqué
+- résultat nickel
+
 
 
 
