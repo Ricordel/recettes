@@ -64,5 +64,12 @@ Fermentolyse
 - grigner (pas optionnel)
 - 35 min à 235°C, avec de l'eau dans un plat au fond du four
 
-
 **Tadam**
+
+# Journal de tentatives
+
+## 2025-05-03
+
+Tout fait comme la recette de base (1/2 quantité). Levain moitié seigle / moitié blé T110. Bulk fermentation un peu plus courte (plutôt 50 min que 1h entre les pliages) car il fait assez chaud.
+
+Pâte toujours un peu plus collate que ce qu'il montre, et réseau de gluten moins bien formé, malgré la dominante de farine blanche. Je soupçonne mon robot naze. Peut-être pertinent de moins se reposer sur le pétrissage au robot et faire plus de pliages, plus reserrés dans le temps ?
