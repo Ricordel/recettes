@@ -66,10 +66,35 @@ Fermentolyse
 
 **Tadam**
 
-# Journal de tentatives
+## Journal de tentatives
 
-## 2025-05-03
+### 2025-05-03
 
 Tout fait comme la recette de base (1/2 quantité). Levain moitié seigle / moitié blé T110. Bulk fermentation un peu plus courte (plutôt 50 min que 1h entre les pliages) car il fait assez chaud.
 
 Pâte toujours un peu plus collate que ce qu'il montre, et réseau de gluten moins bien formé, malgré la dominante de farine blanche. Je soupçonne mon robot naze. Peut-être pertinent de moins se reposer sur le pétrissage au robot et faire plus de pliages, plus reserrés dans le temps ?
+Après cuisson, c'est trop serré. Pas assez levé ?
+
+# Autre tentative
+
+## 2025-05-08
+
+On va tenter
+- ingrédients
+    - 320g d'eau
+    - 140g de levain pq j'ai pas les 180 prévus
+    - 400g de farine T65
+    - 100g de seigne T150
+    - 9g de sel
+ 
+- Étapes
+    - mélange initial : levain dans l'eau et le diluer un peu
+    - ajouter la farine, bien mélanger
+    - 30 min de pause au tiède (four qui termine de refroidir, il doit faire 25°C à 30°C, au pif) pour autolyse
+    - pétrissage manuel sur plan entre 5 et 10 minutes. Ça colle c'est immonde
+    - gros débile : pas ajouté le sel
+    - je l'ajoute donc maintenant avec des graines (110g de millet + tournesol) et je fais une quinzaine de rabats dans le bol pour mélanger
+    - 30 min de pause à 25°C
+    - pliage - encore 4 fois
+    - pointage à température ambiance : 2h30
+    - frigo pour 
