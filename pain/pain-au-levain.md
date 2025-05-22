@@ -98,3 +98,9 @@ On va tenter
     - pliage - encore 4 fois
     - pointage à température ambiance : 2h30
     - frigo pour 
+
+
+# Liens en vrac
+
+- https://www.youtube.com/watch?v=s4ZGeRQDOZw&list=PLv9GnIwtmHxCR5tWHPKD_9kxeK4qnLr5m&index=2
+- https://www.youtube.com/watch?v=YMjBjcM66I0
