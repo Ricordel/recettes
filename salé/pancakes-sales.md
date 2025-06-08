@@ -4,7 +4,6 @@ Recette originale : https://www.delscookingtwist.com/fr/pancakes-sales-a-la-fari
 
 ## Ingrédients
 
-- farines
 - 90g de farine de pois-chiche
 - 85g de flocons d'avoine finement mixés
 - 3/4 c.à.c de levure
