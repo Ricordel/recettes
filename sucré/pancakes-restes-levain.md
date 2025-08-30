@@ -22,3 +22,7 @@ Pour 8 beaux pancakes à peu près.
     - soit laisser fermenter un peu le levain, par exemple une nuit au frais
  
 **À tester** : dans la version où on laisse bien fermenter, essayer sans bicarbonate et avec peut-être un peu moins de liquide, voir si la structure filante après fermentation peut suffir à ce que ça gonfle un peu.
+
+## Cuisson
+
+Sur mes plaques, 4.5.
