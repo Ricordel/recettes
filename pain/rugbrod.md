@@ -8,13 +8,15 @@ Source : https://www.youtube.com/watch?v=O8hMJqlwSEc
 
 ### Ingrédients
 
-- Farine T170 Seigle : 266 gr
-- Farine T150 Blé : 67 gr
-- Eau : 276 gr
-- Sel : 9 gr
-- levain au seigle : 280 gr (100% Hydratation)
+Pour mon petit moule, faire X0.6 (entre parenthèses)
 
-- Graines :
+- Farine T170 Seigle : 266 gr (160 g)
+- Farine T150 Blé : 67 gr (41 g)
+- Eau : 276 gr (166 g)
+- Sel : 9 gr
+- levain au seigle : 280 gr (168 g) (100% Hydratation)
+
+- Graines : environ 200g total, à faire varier (120 g)
     - Graines de lin : 85 gr
     - Graines de tournesol : 110 gr
 
@@ -29,36 +31,7 @@ Source : https://www.youtube.com/watch?v=O8hMJqlwSEc
 - graisser un moule, mettre la pâte dedans, bien tasser et aplatir. Il doit rester un bon tiers du moule dispo
 - ajouter des flocons d'avoine sur le dessus (mais des graines ça marche aussi) et tasser légèrement
 - fermentation au frigo 15 à 18h (ou 2h à 25°C mais meilleur avec une fermentation longue et lente)
-- 200 °C, 50 minutes. Pas de grignage
-
-## 2025-04-26 - très bien
-
-- 177g de farine de seigle T150
-- 45g de farine de blé T110
-- 184g d'eau
-- 6g de sel
-- 186g de levain de seigle à un tout petit peu plus que 50%
-- 130g de graines et pour cette fois noisettes
-
-Ce sont les bonnes quantités pour mon petit moule en tôle
-
-### Étapes
-
-- 21h30 la veille au soir : levain raffraichi à 1:2:2. Il ne fait pas très chaud, peut-être 19°C. Mon 1:3:3 d'hier n'avait pas atteint son pic à 9h du matin (je ne sais pas quand exactement)
-- vers 10h : mélange, puis ajout des graines torréfiées encore un peu chaudes, ce qui compense la température de l'appart (19°C je pense)
-- vers 12h30 (temps normal), dans le moule et go au frais
-- lendemain vers peut-être 17h (plus de 24h donc), cuisson comme indiqué
-- résultat nickel
-
-
-
-
-## 2025-02-22
-
-Cette fois pu faire comme dans la recette, et c'était parfait. La fermentation je crois avoir fait un intermédiaire entre nuit au frais et 2h dehors, possiblement un peu au frais puis 1h, ou alors 3 - 4h dehors pq il faisait moins de 25°C ? Oublié...
-Pour mon moule il y en avait trop, essayer 2/3 de la recette.
-
-
+- 200 °C, 50 minutes. ~Pas de grignage~ => SI SI SI ! Moi je trouve mieux avec.
 
 
 ## 2025-02-15
