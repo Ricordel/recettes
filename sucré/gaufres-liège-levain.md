@@ -7,6 +7,7 @@ Inspiré de la recette de la Big Boss, j'ai nommé Hinalys (Instagram). Recette 
 ### Ingrédients
 
 - 200g de farine blanche
+- 1 pincée de sel
 - 80g de levain (seigle à 100%)
 - 80g de lait
 - 1 gousse de vanille (j'ai pas mis, remplacé par un càc de cardamome en poudre)
