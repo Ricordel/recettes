@@ -35,8 +35,9 @@ https://youtu.be/bA6JUSYVWXQ?si=KnK9W97VUbG2ltgj
 ### Étapes
 
 - tout mélanger dans le robot, 10 min de pétrissage au crochet
-- faire pousser XXX
+- faire pousser quelques heures (en fonction de la température)
+- au frais pour la nuit
 - diviser en 6, bouler
-- au frais une nuit pour une seconde fermentation
-- laisser remonter en température
+- refaire pousser mais **juste un peu**, ne pas faire le débile à remettre 4h à 27 - 30°C sinon c'est très sur-fermenté
+    - en fait probablement juste laisser remonter en température et détendre après boulage
 - étaler, cuire à sec avec couvercle, poêle assez chaude, ~2 min de chaque côté
