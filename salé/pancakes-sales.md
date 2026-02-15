@@ -15,7 +15,11 @@ Recette originale : https://www.delscookingtwist.com/fr/pancakes-sales-a-la-fari
     - ou n'importe quels autres légumes pour agrémenter
     - attention simplement à ne pas trop en mettre pour que ça reste principalement de la pâte à pancakes
  
-**NOTE** : adaptable selon les goûts et envies : changer de farines, changer de légumes, changer d'épices, ajouter du levain, ... C'est des pancakes c'est flexible.
+**À essayer** : mettre un peu de se gras dedans (huile, purée d'amandes, ...) pour ajouter un peu de fun
+
+**NOTES** :
+- adaptable selon les goûts et envies : changer de farines, changer de légumes, changer d'épices, ajouter du levain, ... C'est des pancakes c'est flexible.
+- possible d'ajouter de la purée de légume, fait avec de la courge et ca marche bien
 
 Ensuite ce que vous voulez en garniture, la recette originale propose des oeufs pochés et une crème d'avocats, c'est très bon, mais c'est une base pour n'importe quoi !
 
