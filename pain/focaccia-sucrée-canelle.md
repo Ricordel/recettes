@@ -21,7 +21,8 @@ Et adaptations maison, notamment pas de glaçage car pas fan, à la place je car
 - 20g d'huile d'olive
 - 9g de sel
 - 20g de suucre en poudre
-- **TODO** : tester de mettre une belle càc de canelle ou cardamome dans la pâte directement pour un goût plus réparti
+- 1 càc de cannelle ou cardamome directement dans la pâte (en plus de la garniture)
+
 
 ### Pour garnir
 
@@ -43,13 +44,14 @@ Laisser en fermentolyse 30 minutes
 
 - saupoudrer le sel et les 20g d'huile
 - commencer à amalgamer **à la main**. Pas tout de suite au robot sinon la pâte va se séparer en plusieurs morceaux séparés d'huile
-- une fois bien amalgamé, 4 minutes au crochet vitesse 2 pour bien pétrir. Possible que ça soit facultatif, mais c'est assez hydraté, un peu de pétrissage ne peut pas faire de mal
+- une fois bien amalgamé, 4 minutes au crochet vitesse 2 pour bien pétrir, ou bien seulement un peu de pétrissage manuel en étirant ça fonctionne aussi
 
 30 minutes de repos couvert à 23 - 25°C
 
 ### Relis et pointage
 
 Toutes les 30 à 45 minutes, une série de "coil folds" (je connais pas le terme en Français), sur une durée totale de 3h à 5h selon la température et à quoi ça ressemble
+- ça a l'air très liquide mais le coil fold passe bien quand-même
 - il faut que ça se décolle bien du saladier, qu'on voit de la tenue
 - que ça ait commencé à buller entre chaque pliage, bref que ça ait fermenté
 
@@ -64,8 +66,9 @@ La pâte soit être dans un saladier assez large, sinon la mettre directement da
 - souder un peu les bords pour pas que ça parte de partout, ou refaire un pli "à vide" pour laminer un peu plus
 
 - chemiser un plat à tarte ou gratin avec du papier sulfu, ou pas s'il est anti-adhésif ou si vous êtes aventureux
-- huiler, mais pas trop non plus
-- transférer la focaccia dans ce plat, elle va se détendre et s'étaler lentement
+- huiler, mais pas trop non plus sinon le fond est imbibé
+    - à tester : une petite couche de sucre au fond pour faire une croûte
+- transférer la focaccia dans ce plat, elle va se détendre et s'étaler lentement, pas la peine de tirer dessus
 
 Là deux choix
 - testé : mettre au frais pour la nuit, puis sortir et laisser réchauffer 2 ou 3h. La pâte soit à nouveau monter, presque doubler
@@ -76,7 +79,7 @@ Là deux choix
 
 À cette étape, la pâte est levée, et réchauffée si elle a passé la nuit au frais.
 
-Préchauffer à 215°C tradi (ou à tester, chauffe sole uniquement ?)
+Préchauffer à 215°C tradi, ou chauffe sole si on a un plat qui conduit moyennement, genre en verre
 
 - faire fondre 25g de beurre
 - verser sur la pâte
