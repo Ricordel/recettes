@@ -27,10 +27,10 @@ https://youtu.be/bA6JUSYVWXQ?si=KnK9W97VUbG2ltgj
 
 ### Ingrédients
 
-- 300g farine blanche
-- 160g d'eau
-- 105g de levain (au seigle principalement, à 100% d'hydratation)
-- 6g de sel
+- 500g farine blanche
+- 270g d'eau
+- 175g de levain (à 100% d'hydratation)
+- 8g de sel
 
 ### Étapes
 
