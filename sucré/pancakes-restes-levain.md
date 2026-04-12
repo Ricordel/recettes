@@ -1,4 +1,4 @@
-# Pancakes aus restes de levain
+# Pancakes aux restes de levain
 
 Source inspiration https://www.yumelise.fr/pancakes-levain/
 
